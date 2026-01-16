@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "initial commit"
+git branch -M main
+git remote add origin https://github.com/jimis1960/git_site
+git push -u origin main
